@@ -1,0 +1,17 @@
+{
+  "name": "offcial-bot-for-cof",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Core Members of COF",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.16.0",
+    "glob": "^8.1.0",
+    "mongoose": "^7.3.2"
+  }
+}
